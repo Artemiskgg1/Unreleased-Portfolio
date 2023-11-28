@@ -35,7 +35,7 @@ function Homepage() {
             { text: 'GitHub', icon: '/github-logo.png', href: 'https://github.com/ArtemisGarth' },
             { text: 'LinkedIn', icon: '/linkedin.png', href: 'https://www.linkedin.com/in/abha-ghildiyal-6ba119223/' },
             { text: 'Telegram', icon: '/telegram.png', href: 'https://t.me/Abha_Ghildiyal' },
-            { text: 'Resume', icon: '/resume.png', href: 'https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:95835c81-aee1-34e8-a140-fb761b7bdddd' },
+            { text: 'Resume', icon: '/resume.png', href: '#' },
           ].map((item, index) => (
             <a key={index}
             download={item.text === 'Resume'}
