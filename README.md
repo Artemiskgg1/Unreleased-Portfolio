@@ -19,7 +19,7 @@ This was my first portfolio website built using **React**. I never really deploy
 
 ```bash
 # Clone this legendary project
-$ git clone https://github.com/yourusername/portfolio.git
+$ git clone https://github.com/Artemiskgg1/portfolio.git
 
 # Navigate to the folder
 $ cd portfolio
